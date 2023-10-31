@@ -11,7 +11,7 @@
 
 ## Informatique 
 - [Medium](https://medium.com)
-- Github(https://github.com/)
+- [Github](https://github.com/)
 
 
 
