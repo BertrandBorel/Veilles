@@ -71,3 +71,12 @@ Utilisez un système pour enregistrer et organiser les informations que vous tro
 Vos besoins en veille informatique peuvent évoluer avec le temps. Assurez-vous d'ajuster vos sources et votre stratégie en conséquence.
 
 La veille informatique est un processus continu et il est essentiel de s'adapter aux changements technologiques et à l'évolution de l'industrie. En suivant ces étapes, vous serez en mesure de rester à jour dans le domaine de l'informatique et de tirer parti de ces connaissances pour votre travail ou vos projets personnels.
+
+----
+# <center> Outils pour faire de la veille </center>
+
+- Google Alerts
+- Feedly (Flux RSS)
+- Netvibes
+- Twitter
+- Linkedin
