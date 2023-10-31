@@ -28,6 +28,7 @@
 
 
 ## Sites d'informatique en français :
+- [LeBigData](https://www.lebigdata.fr/)
 - [IT social](https://itsocial.fr/)
 - [L'Informatitien](https://www.linformaticien.com/)
 - [LeMagIT](https://www.lemagit.fr/)
