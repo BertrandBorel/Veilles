@@ -28,13 +28,16 @@
   - [SmashingMagazine](https://www.smashingmagazine.com/)
 
 
-## Sites d'informatique en français :
+## Sites d'informatique en français
 - [LeBigData](https://www.lebigdata.fr/)
 - [IT social](https://itsocial.fr/)
 - [L'Informaticien](https://www.linformaticien.com/)
 - [LeMagIT](https://www.lemagit.fr/)
 - [L'Usine Nouvelle](https://www.usinenouvelle.com/electronique-informatique/)
-- [Programmez!](https://www.programmez.com/) = revue papier uniquement.
+
+## Revue d'informatique en français (format papier)
+- [Programmez!](https://www.programmez.com/)
+- Coding magazine
 
 
 
