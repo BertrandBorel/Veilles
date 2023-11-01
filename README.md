@@ -12,7 +12,7 @@
 ## Informatique 
 - [Medium](https://medium.com)
 - [Github](https://github.com/)
-- [Stackoverflow](https://stackoverflow.com/)
+- [Stack Overflow](https://stackoverflow.com/)
 
 
 
